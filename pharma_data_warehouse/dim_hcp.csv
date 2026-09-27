@@ -1,0 +1,251 @@
+hcp_id,npi,first_name,specialty,market_decile,territory_id,preferred_channel,email_opt_in,clinical_trial_investigator
+HCP_1000000001,1000000001,Physician_1,Hematology-Oncology,6,US-EAST-01,Digital_Ad,True,False
+HCP_1000000002,1000000002,Physician_2,Medical Oncology,2,US-WEST-01,Rep_Virtual,True,True
+HCP_1000000003,1000000003,Physician_3,Medical Oncology,10,US-WEST-01,Webinar,False,False
+HCP_1000000004,1000000004,Physician_4,Medical Oncology,8,US-CENTRAL-01,Rep_F2F,True,True
+HCP_1000000005,1000000005,Physician_5,Medical Oncology,6,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000006,1000000006,Physician_6,Hematology-Oncology,10,US-CENTRAL-01,Rep_Virtual,True,True
+HCP_1000000007,1000000007,Physician_7,Hematology-Oncology,10,US-EAST-01,Digital_Ad,True,False
+HCP_1000000008,1000000008,Physician_8,Hematology-Oncology,5,US-WEST-01,Approved_Email,True,False
+HCP_1000000009,1000000009,Physician_9,Medical Oncology,5,US-EAST-02,Approved_Email,True,False
+HCP_1000000010,1000000010,Physician_10,Medical Oncology,1,US-EAST-02,Webinar,False,False
+HCP_1000000011,1000000011,Physician_11,Medical Oncology,10,US-EAST-01,Rep_F2F,False,False
+HCP_1000000012,1000000012,Physician_12,Hematology-Oncology,9,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000013,1000000013,Physician_13,Medical Oncology,3,US-CENTRAL-01,Webinar,True,False
+HCP_1000000014,1000000014,Physician_14,Medical Oncology,6,US-WEST-01,Rep_F2F,True,False
+HCP_1000000015,1000000015,Physician_15,Medical Oncology,2,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000016,1000000016,Physician_16,Hematology-Oncology,2,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000017,1000000017,Physician_17,Medical Oncology,9,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000018,1000000018,Physician_18,Medical Oncology,5,US-CENTRAL-01,Rep_F2F,True,True
+HCP_1000000019,1000000019,Physician_19,Hematology-Oncology,3,US-WEST-01,Rep_F2F,True,False
+HCP_1000000020,1000000020,Physician_20,Medical Oncology,3,US-EAST-01,Approved_Email,True,True
+HCP_1000000021,1000000021,Physician_21,Thoracic Oncology,6,US-EAST-01,Rep_F2F,True,True
+HCP_1000000022,1000000022,Physician_22,Medical Oncology,7,US-EAST-02,Rep_F2F,True,False
+HCP_1000000023,1000000023,Physician_23,Medical Oncology,9,US-EAST-01,Rep_F2F,True,True
+HCP_1000000024,1000000024,Physician_24,Medical Oncology,6,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000025,1000000025,Physician_25,Thoracic Oncology,3,US-EAST-02,Rep_F2F,True,False
+HCP_1000000026,1000000026,Physician_26,Medical Oncology,7,US-WEST-01,Rep_F2F,True,False
+HCP_1000000027,1000000027,Physician_27,Medical Oncology,6,US-EAST-01,Rep_F2F,False,False
+HCP_1000000028,1000000028,Physician_28,Hematology-Oncology,1,US-EAST-02,Rep_F2F,True,False
+HCP_1000000029,1000000029,Physician_29,Hematology-Oncology,10,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000030,1000000030,Physician_30,Thoracic Oncology,9,US-EAST-02,Rep_Virtual,True,True
+HCP_1000000031,1000000031,Physician_31,Medical Oncology,9,US-EAST-01,Rep_F2F,True,False
+HCP_1000000032,1000000032,Physician_32,Hematology-Oncology,5,US-WEST-01,Approved_Email,True,False
+HCP_1000000033,1000000033,Physician_33,Thoracic Oncology,8,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000034,1000000034,Physician_34,Hematology-Oncology,5,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000035,1000000035,Physician_35,Medical Oncology,8,US-WEST-01,Rep_Virtual,False,False
+HCP_1000000036,1000000036,Physician_36,Medical Oncology,9,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000037,1000000037,Physician_37,Hematology-Oncology,9,US-CENTRAL-01,Approved_Email,False,False
+HCP_1000000038,1000000038,Physician_38,Medical Oncology,8,US-EAST-01,Approved_Email,True,True
+HCP_1000000039,1000000039,Physician_39,Hematology-Oncology,4,US-WEST-01,Rep_Virtual,False,False
+HCP_1000000040,1000000040,Physician_40,Medical Oncology,1,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000041,1000000041,Physician_41,Medical Oncology,8,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000042,1000000042,Physician_42,Medical Oncology,8,US-WEST-01,Digital_Ad,True,False
+HCP_1000000043,1000000043,Physician_43,Medical Oncology,7,US-EAST-01,Approved_Email,True,False
+HCP_1000000044,1000000044,Physician_44,Medical Oncology,8,US-WEST-01,Approved_Email,False,False
+HCP_1000000045,1000000045,Physician_45,Medical Oncology,10,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000046,1000000046,Physician_46,Medical Oncology,8,US-EAST-01,Digital_Ad,True,False
+HCP_1000000047,1000000047,Physician_47,Hematology-Oncology,6,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000048,1000000048,Physician_48,Hematology-Oncology,2,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000049,1000000049,Physician_49,Hematology-Oncology,9,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000050,1000000050,Physician_50,Medical Oncology,6,US-WEST-01,Rep_Virtual,False,False
+HCP_1000000051,1000000051,Physician_51,Hematology-Oncology,7,US-WEST-01,Approved_Email,True,True
+HCP_1000000052,1000000052,Physician_52,Hematology-Oncology,9,US-WEST-01,Rep_F2F,True,True
+HCP_1000000053,1000000053,Physician_53,Medical Oncology,7,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000054,1000000054,Physician_54,Medical Oncology,1,US-EAST-01,Rep_F2F,True,False
+HCP_1000000055,1000000055,Physician_55,Medical Oncology,5,US-EAST-01,Approved_Email,True,False
+HCP_1000000056,1000000056,Physician_56,Medical Oncology,8,US-EAST-02,Rep_F2F,True,False
+HCP_1000000057,1000000057,Physician_57,Medical Oncology,9,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000058,1000000058,Physician_58,Hematology-Oncology,2,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000059,1000000059,Physician_59,Hematology-Oncology,5,US-WEST-01,Rep_Virtual,False,False
+HCP_1000000060,1000000060,Physician_60,Medical Oncology,7,US-EAST-01,Approved_Email,True,False
+HCP_1000000061,1000000061,Physician_61,Medical Oncology,6,US-EAST-02,Approved_Email,True,True
+HCP_1000000062,1000000062,Physician_62,Medical Oncology,6,US-WEST-01,Digital_Ad,True,False
+HCP_1000000063,1000000063,Physician_63,Medical Oncology,7,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000064,1000000064,Physician_64,Medical Oncology,9,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000065,1000000065,Physician_65,Medical Oncology,8,US-CENTRAL-01,Rep_F2F,False,False
+HCP_1000000066,1000000066,Physician_66,Hematology-Oncology,8,US-CENTRAL-01,Webinar,True,False
+HCP_1000000067,1000000067,Physician_67,Medical Oncology,7,US-EAST-01,Webinar,True,False
+HCP_1000000068,1000000068,Physician_68,Medical Oncology,5,US-EAST-01,Rep_F2F,True,False
+HCP_1000000069,1000000069,Physician_69,Hematology-Oncology,2,US-EAST-02,Rep_F2F,True,False
+HCP_1000000070,1000000070,Physician_70,Medical Oncology,7,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000071,1000000071,Physician_71,Medical Oncology,9,US-EAST-01,Rep_F2F,True,False
+HCP_1000000072,1000000072,Physician_72,Medical Oncology,9,US-WEST-01,Rep_F2F,True,False
+HCP_1000000073,1000000073,Physician_73,Hematology-Oncology,9,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000074,1000000074,Physician_74,Medical Oncology,7,US-EAST-01,Rep_Virtual,False,False
+HCP_1000000075,1000000075,Physician_75,Medical Oncology,1,US-CENTRAL-01,Webinar,False,False
+HCP_1000000076,1000000076,Physician_76,Medical Oncology,7,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000077,1000000077,Physician_77,Hematology-Oncology,8,US-EAST-01,Approved_Email,True,False
+HCP_1000000078,1000000078,Physician_78,Medical Oncology,10,US-CENTRAL-01,Digital_Ad,False,False
+HCP_1000000079,1000000079,Physician_79,Hematology-Oncology,3,US-WEST-01,Rep_F2F,True,False
+HCP_1000000080,1000000080,Physician_80,Medical Oncology,7,US-CENTRAL-01,Rep_F2F,True,True
+HCP_1000000081,1000000081,Physician_81,Medical Oncology,2,US-EAST-01,Digital_Ad,False,False
+HCP_1000000082,1000000082,Physician_82,Medical Oncology,10,US-WEST-01,Approved_Email,True,False
+HCP_1000000083,1000000083,Physician_83,Thoracic Oncology,8,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000084,1000000084,Physician_84,Hematology-Oncology,7,US-WEST-01,Approved_Email,True,False
+HCP_1000000085,1000000085,Physician_85,Thoracic Oncology,9,US-CENTRAL-01,Approved_Email,True,True
+HCP_1000000086,1000000086,Physician_86,Hematology-Oncology,7,US-EAST-01,Rep_Virtual,False,True
+HCP_1000000087,1000000087,Physician_87,Thoracic Oncology,9,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000088,1000000088,Physician_88,Medical Oncology,2,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000089,1000000089,Physician_89,Medical Oncology,8,US-WEST-01,Webinar,False,True
+HCP_1000000090,1000000090,Physician_90,Medical Oncology,6,US-EAST-02,Rep_F2F,True,False
+HCP_1000000091,1000000091,Physician_91,Medical Oncology,6,US-EAST-01,Approved_Email,True,False
+HCP_1000000092,1000000092,Physician_92,Medical Oncology,1,US-EAST-01,Rep_F2F,True,False
+HCP_1000000093,1000000093,Physician_93,Thoracic Oncology,10,US-WEST-01,Webinar,True,False
+HCP_1000000094,1000000094,Physician_94,Hematology-Oncology,2,US-EAST-01,Webinar,True,False
+HCP_1000000095,1000000095,Physician_95,Medical Oncology,9,US-EAST-01,Digital_Ad,True,False
+HCP_1000000096,1000000096,Physician_96,Medical Oncology,9,US-EAST-01,Approved_Email,True,False
+HCP_1000000097,1000000097,Physician_97,Hematology-Oncology,2,US-CENTRAL-01,Webinar,True,False
+HCP_1000000098,1000000098,Physician_98,Hematology-Oncology,8,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000099,1000000099,Physician_99,Hematology-Oncology,3,US-EAST-02,Digital_Ad,True,False
+HCP_1000000100,1000000100,Physician_100,Medical Oncology,1,US-EAST-02,Rep_F2F,True,False
+HCP_1000000101,1000000101,Physician_101,Hematology-Oncology,7,US-EAST-01,Webinar,True,False
+HCP_1000000102,1000000102,Physician_102,Medical Oncology,8,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000103,1000000103,Physician_103,Medical Oncology,5,US-EAST-02,Rep_F2F,True,False
+HCP_1000000104,1000000104,Physician_104,Hematology-Oncology,8,US-EAST-01,Rep_F2F,True,False
+HCP_1000000105,1000000105,Physician_105,Hematology-Oncology,6,US-EAST-01,Approved_Email,True,False
+HCP_1000000106,1000000106,Physician_106,Medical Oncology,9,US-EAST-01,Approved_Email,False,False
+HCP_1000000107,1000000107,Physician_107,Medical Oncology,6,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000108,1000000108,Physician_108,Hematology-Oncology,8,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000109,1000000109,Physician_109,Hematology-Oncology,9,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000110,1000000110,Physician_110,Medical Oncology,9,US-EAST-02,Rep_F2F,True,True
+HCP_1000000111,1000000111,Physician_111,Medical Oncology,7,US-EAST-02,Rep_F2F,True,False
+HCP_1000000112,1000000112,Physician_112,Hematology-Oncology,2,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000113,1000000113,Physician_113,Hematology-Oncology,2,US-EAST-01,Rep_F2F,True,False
+HCP_1000000114,1000000114,Physician_114,Medical Oncology,7,US-WEST-01,Webinar,True,False
+HCP_1000000115,1000000115,Physician_115,Medical Oncology,9,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000116,1000000116,Physician_116,Hematology-Oncology,9,US-EAST-02,Rep_F2F,True,False
+HCP_1000000117,1000000117,Physician_117,Medical Oncology,5,US-EAST-01,Rep_Virtual,True,True
+HCP_1000000118,1000000118,Physician_118,Medical Oncology,7,US-EAST-01,Rep_F2F,True,False
+HCP_1000000119,1000000119,Physician_119,Medical Oncology,7,US-EAST-02,Rep_F2F,True,False
+HCP_1000000120,1000000120,Physician_120,Medical Oncology,8,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000121,1000000121,Physician_121,Hematology-Oncology,6,US-EAST-01,Digital_Ad,True,False
+HCP_1000000122,1000000122,Physician_122,Hematology-Oncology,6,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000123,1000000123,Physician_123,Medical Oncology,9,US-WEST-01,Rep_F2F,True,False
+HCP_1000000124,1000000124,Physician_124,Thoracic Oncology,9,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000125,1000000125,Physician_125,Thoracic Oncology,4,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000126,1000000126,Physician_126,Thoracic Oncology,9,US-WEST-01,Rep_F2F,True,False
+HCP_1000000127,1000000127,Physician_127,Hematology-Oncology,5,US-WEST-01,Rep_F2F,True,False
+HCP_1000000128,1000000128,Physician_128,Hematology-Oncology,10,US-EAST-02,Rep_F2F,True,True
+HCP_1000000129,1000000129,Physician_129,Medical Oncology,2,US-EAST-02,Digital_Ad,True,True
+HCP_1000000130,1000000130,Physician_130,Medical Oncology,1,US-EAST-02,Rep_F2F,True,False
+HCP_1000000131,1000000131,Physician_131,Thoracic Oncology,10,US-EAST-02,Webinar,False,False
+HCP_1000000132,1000000132,Physician_132,Thoracic Oncology,5,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000133,1000000133,Physician_133,Medical Oncology,3,US-EAST-02,Approved_Email,True,False
+HCP_1000000134,1000000134,Physician_134,Thoracic Oncology,5,US-EAST-01,Approved_Email,True,False
+HCP_1000000135,1000000135,Physician_135,Medical Oncology,9,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000136,1000000136,Physician_136,Medical Oncology,7,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000137,1000000137,Physician_137,Medical Oncology,10,US-EAST-02,Approved_Email,True,False
+HCP_1000000138,1000000138,Physician_138,Hematology-Oncology,8,US-EAST-01,Rep_F2F,True,False
+HCP_1000000139,1000000139,Physician_139,Medical Oncology,9,US-EAST-01,Rep_F2F,True,True
+HCP_1000000140,1000000140,Physician_140,Medical Oncology,5,US-EAST-02,Approved_Email,True,False
+HCP_1000000141,1000000141,Physician_141,Medical Oncology,3,US-WEST-01,Webinar,True,False
+HCP_1000000142,1000000142,Physician_142,Hematology-Oncology,7,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000143,1000000143,Physician_143,Medical Oncology,7,US-CENTRAL-01,Rep_F2F,False,False
+HCP_1000000144,1000000144,Physician_144,Medical Oncology,5,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000145,1000000145,Physician_145,Medical Oncology,7,US-WEST-01,Approved_Email,True,True
+HCP_1000000146,1000000146,Physician_146,Medical Oncology,10,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000147,1000000147,Physician_147,Hematology-Oncology,8,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000148,1000000148,Physician_148,Medical Oncology,3,US-WEST-01,Rep_F2F,True,False
+HCP_1000000149,1000000149,Physician_149,Hematology-Oncology,9,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000150,1000000150,Physician_150,Hematology-Oncology,5,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000151,1000000151,Physician_151,Medical Oncology,10,US-EAST-02,Rep_F2F,False,False
+HCP_1000000152,1000000152,Physician_152,Medical Oncology,1,US-EAST-01,Webinar,True,False
+HCP_1000000153,1000000153,Physician_153,Hematology-Oncology,10,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000154,1000000154,Physician_154,Medical Oncology,7,US-WEST-01,Digital_Ad,True,True
+HCP_1000000155,1000000155,Physician_155,Hematology-Oncology,10,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000156,1000000156,Physician_156,Medical Oncology,9,US-EAST-01,Rep_F2F,True,False
+HCP_1000000157,1000000157,Physician_157,Hematology-Oncology,8,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000158,1000000158,Physician_158,Hematology-Oncology,7,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000159,1000000159,Physician_159,Medical Oncology,10,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000160,1000000160,Physician_160,Hematology-Oncology,10,US-WEST-01,Webinar,True,False
+HCP_1000000161,1000000161,Physician_161,Medical Oncology,5,US-EAST-02,Approved_Email,True,False
+HCP_1000000162,1000000162,Physician_162,Hematology-Oncology,9,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000163,1000000163,Physician_163,Medical Oncology,9,US-EAST-01,Webinar,True,False
+HCP_1000000164,1000000164,Physician_164,Hematology-Oncology,6,US-EAST-01,Rep_F2F,True,True
+HCP_1000000165,1000000165,Physician_165,Medical Oncology,4,US-EAST-02,Approved_Email,False,False
+HCP_1000000166,1000000166,Physician_166,Medical Oncology,6,US-CENTRAL-01,Webinar,True,False
+HCP_1000000167,1000000167,Physician_167,Medical Oncology,7,US-WEST-01,Approved_Email,True,False
+HCP_1000000168,1000000168,Physician_168,Hematology-Oncology,9,US-CENTRAL-01,Rep_F2F,False,False
+HCP_1000000169,1000000169,Physician_169,Medical Oncology,7,US-WEST-01,Rep_F2F,True,False
+HCP_1000000170,1000000170,Physician_170,Medical Oncology,5,US-EAST-02,Approved_Email,True,False
+HCP_1000000171,1000000171,Physician_171,Thoracic Oncology,5,US-EAST-01,Rep_F2F,True,False
+HCP_1000000172,1000000172,Physician_172,Medical Oncology,2,US-WEST-01,Rep_Virtual,True,True
+HCP_1000000173,1000000173,Physician_173,Hematology-Oncology,3,US-WEST-01,Webinar,True,False
+HCP_1000000174,1000000174,Physician_174,Hematology-Oncology,7,US-EAST-01,Approved_Email,True,False
+HCP_1000000175,1000000175,Physician_175,Hematology-Oncology,1,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000176,1000000176,Physician_176,Medical Oncology,2,US-WEST-01,Webinar,True,False
+HCP_1000000177,1000000177,Physician_177,Hematology-Oncology,8,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000178,1000000178,Physician_178,Medical Oncology,5,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000179,1000000179,Physician_179,Hematology-Oncology,8,US-EAST-01,Rep_F2F,True,False
+HCP_1000000180,1000000180,Physician_180,Hematology-Oncology,7,US-EAST-01,Approved_Email,True,False
+HCP_1000000181,1000000181,Physician_181,Medical Oncology,9,US-EAST-02,Approved_Email,True,False
+HCP_1000000182,1000000182,Physician_182,Hematology-Oncology,9,US-EAST-01,Digital_Ad,True,False
+HCP_1000000183,1000000183,Physician_183,Hematology-Oncology,7,US-EAST-01,Webinar,True,False
+HCP_1000000184,1000000184,Physician_184,Thoracic Oncology,8,US-WEST-01,Digital_Ad,True,False
+HCP_1000000185,1000000185,Physician_185,Hematology-Oncology,10,US-CENTRAL-01,Rep_F2F,False,False
+HCP_1000000186,1000000186,Physician_186,Medical Oncology,7,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000187,1000000187,Physician_187,Medical Oncology,10,US-EAST-02,Webinar,True,False
+HCP_1000000188,1000000188,Physician_188,Hematology-Oncology,7,US-WEST-01,Approved_Email,True,True
+HCP_1000000189,1000000189,Physician_189,Medical Oncology,2,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000190,1000000190,Physician_190,Hematology-Oncology,9,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000191,1000000191,Physician_191,Medical Oncology,8,US-EAST-02,Rep_F2F,False,True
+HCP_1000000192,1000000192,Physician_192,Thoracic Oncology,4,US-CENTRAL-01,Rep_Virtual,False,False
+HCP_1000000193,1000000193,Physician_193,Medical Oncology,9,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000194,1000000194,Physician_194,Medical Oncology,6,US-WEST-01,Rep_F2F,True,False
+HCP_1000000195,1000000195,Physician_195,Medical Oncology,3,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000196,1000000196,Physician_196,Medical Oncology,5,US-CENTRAL-01,Webinar,True,False
+HCP_1000000197,1000000197,Physician_197,Hematology-Oncology,5,US-CENTRAL-01,Webinar,True,False
+HCP_1000000198,1000000198,Physician_198,Thoracic Oncology,9,US-EAST-02,Approved_Email,True,False
+HCP_1000000199,1000000199,Physician_199,Hematology-Oncology,5,US-EAST-01,Webinar,True,True
+HCP_1000000200,1000000200,Physician_200,Medical Oncology,1,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000201,1000000201,Physician_201,Hematology-Oncology,2,US-CENTRAL-01,Digital_Ad,True,False
+HCP_1000000202,1000000202,Physician_202,Medical Oncology,5,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000203,1000000203,Physician_203,Medical Oncology,5,US-EAST-01,Rep_F2F,False,False
+HCP_1000000204,1000000204,Physician_204,Medical Oncology,7,US-EAST-01,Rep_Virtual,False,False
+HCP_1000000205,1000000205,Physician_205,Hematology-Oncology,9,US-EAST-01,Webinar,True,False
+HCP_1000000206,1000000206,Physician_206,Hematology-Oncology,5,US-WEST-01,Rep_F2F,True,True
+HCP_1000000207,1000000207,Physician_207,Medical Oncology,5,US-EAST-01,Approved_Email,True,False
+HCP_1000000208,1000000208,Physician_208,Hematology-Oncology,7,US-WEST-01,Webinar,True,False
+HCP_1000000209,1000000209,Physician_209,Hematology-Oncology,5,US-WEST-01,Webinar,True,False
+HCP_1000000210,1000000210,Physician_210,Medical Oncology,4,US-EAST-01,Rep_F2F,True,False
+HCP_1000000211,1000000211,Physician_211,Hematology-Oncology,9,US-EAST-02,Rep_F2F,True,False
+HCP_1000000212,1000000212,Physician_212,Medical Oncology,1,US-CENTRAL-01,Webinar,True,False
+HCP_1000000213,1000000213,Physician_213,Medical Oncology,9,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000214,1000000214,Physician_214,Medical Oncology,8,US-WEST-01,Rep_F2F,True,False
+HCP_1000000215,1000000215,Physician_215,Medical Oncology,3,US-WEST-01,Approved_Email,True,False
+HCP_1000000216,1000000216,Physician_216,Hematology-Oncology,4,US-WEST-01,Approved_Email,True,True
+HCP_1000000217,1000000217,Physician_217,Medical Oncology,6,US-EAST-02,Approved_Email,True,True
+HCP_1000000218,1000000218,Physician_218,Thoracic Oncology,2,US-CENTRAL-01,Webinar,False,False
+HCP_1000000219,1000000219,Physician_219,Medical Oncology,3,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000220,1000000220,Physician_220,Medical Oncology,9,US-EAST-02,Rep_F2F,True,False
+HCP_1000000221,1000000221,Physician_221,Medical Oncology,7,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000222,1000000222,Physician_222,Medical Oncology,9,US-CENTRAL-01,Approved_Email,True,False
+HCP_1000000223,1000000223,Physician_223,Thoracic Oncology,4,US-WEST-01,Rep_Virtual,True,False
+HCP_1000000224,1000000224,Physician_224,Medical Oncology,9,US-EAST-02,Rep_Virtual,False,False
+HCP_1000000225,1000000225,Physician_225,Hematology-Oncology,5,US-WEST-01,Rep_F2F,True,False
+HCP_1000000226,1000000226,Physician_226,Medical Oncology,7,US-EAST-01,Rep_F2F,True,False
+HCP_1000000227,1000000227,Physician_227,Hematology-Oncology,9,US-WEST-01,Approved_Email,True,False
+HCP_1000000228,1000000228,Physician_228,Medical Oncology,10,US-EAST-02,Rep_F2F,True,True
+HCP_1000000229,1000000229,Physician_229,Medical Oncology,8,US-EAST-01,Rep_Virtual,True,False
+HCP_1000000230,1000000230,Physician_230,Medical Oncology,6,US-WEST-01,Approved_Email,True,True
+HCP_1000000231,1000000231,Physician_231,Medical Oncology,2,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000232,1000000232,Physician_232,Thoracic Oncology,9,US-CENTRAL-01,Digital_Ad,True,True
+HCP_1000000233,1000000233,Physician_233,Medical Oncology,5,US-WEST-01,Digital_Ad,True,False
+HCP_1000000234,1000000234,Physician_234,Thoracic Oncology,6,US-EAST-01,Approved_Email,True,True
+HCP_1000000235,1000000235,Physician_235,Medical Oncology,6,US-EAST-02,Rep_F2F,True,False
+HCP_1000000236,1000000236,Physician_236,Hematology-Oncology,5,US-EAST-02,Approved_Email,True,True
+HCP_1000000237,1000000237,Physician_237,Medical Oncology,8,US-EAST-02,Approved_Email,True,False
+HCP_1000000238,1000000238,Physician_238,Thoracic Oncology,6,US-WEST-01,Webinar,True,False
+HCP_1000000239,1000000239,Physician_239,Hematology-Oncology,9,US-WEST-01,Rep_F2F,True,False
+HCP_1000000240,1000000240,Physician_240,Medical Oncology,7,US-EAST-02,Rep_F2F,True,True
+HCP_1000000241,1000000241,Physician_241,Hematology-Oncology,5,US-EAST-02,Rep_F2F,True,False
+HCP_1000000242,1000000242,Physician_242,Medical Oncology,9,US-WEST-01,Webinar,True,False
+HCP_1000000243,1000000243,Physician_243,Thoracic Oncology,8,US-EAST-01,Rep_F2F,True,True
+HCP_1000000244,1000000244,Physician_244,Medical Oncology,7,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000245,1000000245,Physician_245,Hematology-Oncology,9,US-WEST-01,Approved_Email,True,False
+HCP_1000000246,1000000246,Physician_246,Medical Oncology,9,US-CENTRAL-01,Rep_Virtual,True,False
+HCP_1000000247,1000000247,Physician_247,Hematology-Oncology,8,US-EAST-02,Rep_Virtual,True,False
+HCP_1000000248,1000000248,Physician_248,Medical Oncology,10,US-CENTRAL-01,Rep_F2F,True,False
+HCP_1000000249,1000000249,Physician_249,Hematology-Oncology,9,US-WEST-01,Rep_F2F,True,False
+HCP_1000000250,1000000250,Physician_250,Medical Oncology,6,US-EAST-02,Rep_Virtual,True,False

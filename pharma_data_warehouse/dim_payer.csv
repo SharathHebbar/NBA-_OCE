@@ -1,0 +1,9 @@
+payer_id,payer_name,plan_type,formulary_tier,pa_required,step_therapy_required,brand_coverage_status
+PAYER_101,UnitedHealth_Commercial,Commercial,2,True,False,Covered
+PAYER_102,Anthem_BCBS,Commercial,2,True,False,Covered
+PAYER_103,CVS_Caremark_Commercial,Commercial,1,False,False,Preferred
+PAYER_104,Aetna_Commercial,Commercial,3,True,True,Restricted
+PAYER_105,Cigna_Commercial,Commercial,2,True,False,Covered
+PAYER_106,CMS_Medicare_Part_D,Medicare,2,True,False,Covered
+PAYER_107,Humana_Medicare,Medicare,2,True,False,Covered
+PAYER_108,State_Medicaid_Pool,Medicaid,3,True,True,Restricted
